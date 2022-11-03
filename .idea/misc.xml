@@ -3,7 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/drawable-v24/tab_unselected_background.xml" value="0.143" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/drawable/ic_settings.xml" value="0.1455" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/drawable/left_sided_category.xml" value="0.1455" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/drawable/tab_background.xml" value="0.143" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/drawable/tab_selected_background.xml" value="0.143" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/drawable/toolbar_background.xml" value="0.1" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/layout/activity_categories.xml" value="0.25" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/layout/activity_details.xml" value="0.264" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/layout/activity_settings.xml" value="0.11474164133738601" />
         <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/layout/activity_splash.xml" value="0.2359375" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/layout/item_news.xml" value="0.25" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/layout/left_sided_category.xml" value="0.24895833333333334" />
+        <entry key="..\:/ALL/3uTools/NewsApp/app/src/main/res/layout/right_sided_category.xml" value="0.25" />
       </map>
     </option>
   </component>
